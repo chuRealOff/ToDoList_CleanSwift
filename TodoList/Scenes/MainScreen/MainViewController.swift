@@ -17,8 +17,6 @@ final class MainViewController: UITableViewController {
 		title = "TodoList"
 		
 		self.tableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
-		
-
 	}
 		
 	// MARK: - Table view data source
