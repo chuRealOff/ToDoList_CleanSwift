@@ -7,11 +7,11 @@
 - Decorator
 - Adapter
 - DI
-- MVP
+- CleanSwift
 
-## L1M6 Home Work
+## L1M7 Home Work
 
-- Переход от использования MVC к MVP.
+- Переход от использования MVP к CleanSwift.
 
 ## Getting Started
 
